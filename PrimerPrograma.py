@@ -1,6 +1,6 @@
 
 # My Learning Process
-# Today, March 26, 2022 begins my learning process of programming.
+# Saturday, March 26, 2022 begins my learning process of programming.
 
 print("Hola, encontraré por ti el número más grande y más pequeño de los tres números que pondrás a continuación.")
 # Lo que está entre comillas "Hola..." es una Cadena De Texto o un STRING(str)
