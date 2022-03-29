@@ -11,7 +11,10 @@ a = "2"
 # "!=" evalúa si los valores son distintos.
 # "="  este símbolo es ASIGNACIÓN
 
-if si == "S":
+
+# Si el usuario Contesta en este caso "S" el programa seguirá ejecutándose y si contesta que "N" el programa ejecutara
+# las siguientes líneas de código que no estan dentro de ese sentencia if.
+if si == "S": 
     print("¡Perfecto, buena suerte!")
     respuesta = input("Soy más de uno sin llegar a tres y llego a cuatro cuando dos me des. ¿Cuál número soy? ")
 # Aquí le asigno a la VARIABLE "respuesta" porque si no le asignáramos nada a la respuesta del comando INPUT no tendría
@@ -20,6 +23,7 @@ if si == "S":
 # La estructura básica de esta sentencia if es la siguiente:
 if respuesta == a:
     print("Enhorabuena has ganado, aunque solo por esta vez.")
+    
 
 if si != "S" or respuesta != a:
     print("Otra vez sera")
