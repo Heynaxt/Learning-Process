@@ -3,7 +3,7 @@
 
 import random
 # Si queremos hacer números aleatorios utilizamos la librería "RANDOM", el "import" sirve para importar la "herramienta"
-# en este caso es "random"
+# en este caso es "random" y es importante ponerlo en la primera línea de código o si no no funcionara
 
 print("Hola te propongo un reto, pensare en un numero entre el 1 y 10 si lo adivinas ganas.")
 print("¡Perfecto, buena suerte!")
