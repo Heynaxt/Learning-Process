@@ -27,6 +27,7 @@ if respuesta == a:
 # La estructura de control "OR" Devuelve True si al menos un elemento es True (Ejemplo: True or False = True)
 if si != "S" or respuesta != a:
     print("Otra vez sera")
+# IF es una de las principales Sentencias De Control De Flujo
 # La estructura de control if... permite que un programa ejecute unas instrucciones cuando se cumplan una condición
 # "Si la expresión evaluada en este caso "if si == "S":", resulta ser verdadera(True), se ejecuta el bloque de
 # sentencias. Si el resultado es False no se ejecuta el bloque de sentencias.
