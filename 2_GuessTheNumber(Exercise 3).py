@@ -24,7 +24,7 @@ if si == "S":
 if respuesta == a:
     print("Enhorabuena has ganado, aunque solo por esta vez.")
     
-# # La estructura de control "OR" Devuelve True si al menos un elemento es True (Ejemplo: True or False = True)
+# La estructura de control "OR" Devuelve True si al menos un elemento es True (Ejemplo: True or False = True)
 if si != "S" or respuesta != a:
     print("Otra vez sera")
 # La estructura de control if... permite que un programa ejecute unas instrucciones cuando se cumplan una condición
