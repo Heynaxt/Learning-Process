@@ -24,7 +24,8 @@ if si == "S":
 if respuesta == a:
     print("Enhorabuena has ganado, aunque solo por esta vez.")
     
-# El operador OR evalúa si el valor del lado izquierdo o el lado derecho se cumple.
+# El operador OR evalúa si el valor del lado izquierdo o el lado derecho se cumple. 
+# Devuelve True si al menos un elemento es True (Ejemplo: True or False = True)
 if si != "S" or respuesta != a:
     print("Otra vez sera")
 # IF es una de las principales Sentencias De Control De Flujo
