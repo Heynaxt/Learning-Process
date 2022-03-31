@@ -31,3 +31,4 @@ if si != "S" or respuesta != a:
 # La estructura de control if... permite que un programa ejecute unas instrucciones cuando se cumplan una condición
 # "Si la expresión evaluada en este caso "if si == "S":", resulta ser verdadera(True), se ejecuta el bloque de
 # sentencias. Si el resultado es False no se ejecuta el bloque de sentencias.
+# Ejemplo y explicación gráfica: https://www.mclibre.org/consultar/python/lecciones/python-if-else.html
