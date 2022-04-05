@@ -1,6 +1,9 @@
 
 titulo = "Bienvenido al Test Como de virgen eres según el LOL"
 print("\n" + titulo + "\n" + "-" * len (titulo) + "\n")
+# La función de la linea 3 es que el título aparezca subrayado
+# La función "len()" evalúa el número de caracteres que contiene la cadena.
+# \N es el carácter de salto de línea y se usa para indicar el fin de una línea de texto y el inicio de una línea nueva.
 
 puntuacion = 0
 
