@@ -12,6 +12,12 @@ opcion = input("Pregunta 1: Cual de estos campeones has jugado más?\n"
                "B - Malzahar\n"
                "C - Garen\n"
                "Respuesta: ")
+
+# Elif sirve para enlazar varios "else if", sin tener que aumentar las tabulaciones en cada nueva comparación,
+# vendría a ser como un “si es”
+# En el caso de nuestro código sería algo asi "Si(IF) opción es igual a "A" a la puntuación se le sumará 0 puntos,
+# si no(ELIF) es igual a "A" pero es igual a "B" sumará 5 puntos, sino(ELIF) es igual ni a "A" ni a "B" pero es igual
+# a "C" se sumará 10 puntos, sino(ELSE) es igual a ninguna de las opciones anteriores se ejecutara "print("las...")
 if opcion == "A":
     puntuacion += 0
 elif opcion == "B":
