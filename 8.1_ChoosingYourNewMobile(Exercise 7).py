@@ -32,7 +32,7 @@ if opcion == "Android":
         print("La opción mas viable es {}.".format(c))
         # Estos dos ELSE nos permiten ahorrarnos el tener que escribir dos condicionales IF
         # Y esto es posible, ya que solo nos queda la opción que el usuario conteste "N" o cualquier otra cosa
-        # asi que lo "resumimos" con el ELSE lo mismo ocurre con los ELSE de la línea 44 y 47
+        # asi que lo "resumimos" con el ELSE lo mismo ocurre con los ELSE de la línea 44 y 47.
 
 
 elif opcion == "IOS":
