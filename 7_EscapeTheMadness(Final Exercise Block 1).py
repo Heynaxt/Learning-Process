@@ -27,3 +27,8 @@ if respuesta1 == "A":
                          "B - Utilizas la fuerza bruta y rompes esa parte del espejo\n"
                          "Respuesta: ")
       print("\n")
+else:
+    print("Una alarma comienza a sonar y las luces se vuelven rojas, derrepente en la habitación entran dos personas\n"
+          "con el rostro borroso y te inyectan un paralizante, y te llevan a un cubículo mucho más seguro.\n" 
+          "Es casi imposible escapar.")
+      
