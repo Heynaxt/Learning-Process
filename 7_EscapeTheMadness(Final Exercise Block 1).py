@@ -26,6 +26,8 @@ if respuesta1 == "A":
                          "A - Haces un poco de presión sobre esa parte del espejo para ver si se abre\n"
                          "B - Utilizas la fuerza bruta y rompes esa parte del espejo\n"
                          "Respuesta: ")
+      if respuesta1 == "A":
+            print("Se abre una especie de puerta de armario, dentro hay un interruptor y una pequeña caja que contiene")
       
       print("\n")
 else:
