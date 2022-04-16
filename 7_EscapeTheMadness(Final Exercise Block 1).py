@@ -27,11 +27,20 @@ if respuesta1 == "A":
                          "B - Utilizas la fuerza bruta y rompes esa parte del espejo\n"
                          "Respuesta: ")
       if respuesta1 == "A":
-            print("Se abre una especie de puerta de armario, dentro hay un interruptor y una pequeña caja que contiene")
+          input("¿Rompes esa parte, aunque tu mano está sangrando mucho, detrás hay un interruptor y una pequeña caja\n"
+                "que contiene una navaja multi-herramienta, de repente escuchas, pasos y gritos de gente corriendo\n"
+                "hacia tu cubículo, que haces?\n"
+                "A - Apagas el interruptor y te escondes lo más rapido posible\n"
+                "B - Coges la navaja, te escondes y esperas a que entren al cubiculo para atacarles\n"
+                "Respuesta: ")                   
+      print("\n")
+      else:
+            print("Se abre una especie de puerta de armario, dentro hay un interruptor y una pequeña caja que contiene\n"
+                  "una navaja multi-herramienta")
       
       print("\n")
 else:
-    print("Una alarma comienza a sonar y las luces se vuelven rojas, derrepente en la habitación entran dos personas\n"
+    print("Una alarma comienza a sonar y las luces se vuelven rojas, de repente en la habitación entran dos personas\n"
           "con el rostro borroso y te inyectan un paralizante, y te llevan a un cubículo mucho más seguro.\n" 
           "Es casi imposible escapar.")
 
