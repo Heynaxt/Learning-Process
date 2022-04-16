@@ -32,7 +32,23 @@ if respuesta1 == "A":
                 "hacia tu cubículo, que haces?\n"
                 "A - Apagas el interruptor y te escondes lo más rapido posible\n"
                 "B - Coges la navaja, te escondes y esperas a que entren al cubiculo para atacarles\n"
-                "Respuesta: ")                   
+                "Respuesta: ") 
+      elif respuesta1 == "B":
+          input("Entran 3 cosas humanoides con los rostros borrosos, tu estas detras de la puerta para cuando\n"
+                "entre el ultimo atacarlos, te das cuenta que la puerta no se puede abrir desde dentro solo desde\n"
+                "fuera, y también se bloquea desde fuera con escáner dactilar, lo piensas mejor, tienes dos\n" 
+                "opciones:\n"
+                "A - Sales corriendo por la puerta y la bloqueas desde fuera\n"
+                "B - Coges al ultimo que entra por la espalda poniéndole la navaja en el cuello, amenazas con\n"
+                "matarlo si se acercan, sales lentamente sin darle la espalda a los humanoides, cuando estas\n"
+                "fuera cierras la puerta rápidamente y la bloqueas utilizando la huella dactilar del humanoide.\n"
+                "La criatura no dice nada, te encuentras en un dilema, te ralentiza mucho y eso es un problema\n"
+                "si estas intentando escapar, pero te puede ser util por si necesitas su huella dactilar, hay\n"
+                "hay varias opciones:\n"
+                    "A - Te lo llevas contigo\n"
+                    "B - Lo matas para que no pueda delatarte y le cortas el dedo, le quitas su ropa y te la pones\n"
+                    "para pasar desapercibido\n"
+                    "C -")
       print("\n")
       else:
             print("Se abre una especie de puerta de armario, dentro hay un interruptor y una pequeña caja que contiene\n"
