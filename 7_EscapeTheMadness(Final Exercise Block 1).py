@@ -26,7 +26,8 @@ if respuesta1 == "A":
                          "A - Haces un poco de presión sobre esa parte del espejo para ver si se abre\n"
                          "B - Utilizas la fuerza bruta y rompes esa parte del espejo\n"
                          "Respuesta: ")
-If
+      if respuesta == "B"
+            print("Consigues romper esa parte pero tu mano esta sangrando mucho")
       
       print("\n")
       else:
