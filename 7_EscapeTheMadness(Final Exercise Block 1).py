@@ -27,7 +27,8 @@ if respuesta1 == "A":
                          "B - Utilizas la fuerza bruta y rompes esa parte del espejo\n"
                          "Respuesta: ")
       if respuesta == "B"
-            print("Consigues romper esa parte pero tu mano esta sangrando mucho, escuchas pasos a lo lejos vienen hacia ti cubículo")
+            print("Consigues romper esa parte pero tu mano esta sangrando mucho, escuchas pasos a lo lejos vienen hacia ti cubículo, que haces?n\
+                  A - Te escondes")
       
       print("\n")
       else:
