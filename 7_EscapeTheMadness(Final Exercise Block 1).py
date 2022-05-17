@@ -23,7 +23,7 @@ if respuesta1 == "A":
                          "en uno de los espejos el reflejo se distorsiona un poco, lo miras con detalle y te das\n"
                          "cuenta que es una escotilla o algún tipo de armario muy bien camuflado.\n"
                          "¿Como lo abres?\n"
-                         "A - Haces un poco de presión sobre esa parte del espejo para ver si se abre\n"
+                         "A - Rompes la punta de alguno de los espejos del cubículo, la utilizas para hacer palanca en los bordes de la puerta del armario"
                          "B - Utilizas la fuerza bruta y rompes esa parte del espejo\n"
                          "Respuesta: ")
       if respuesta == "B"
