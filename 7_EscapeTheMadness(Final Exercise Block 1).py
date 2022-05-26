@@ -41,7 +41,7 @@ if respuesta1 == "A":
                   B - Te pones detras de la compuerta del cubiculo")
       
       print("\n")
-      else:
+      
             print("Se abre una especie de puerta de armario, dentro hay un interruptor y una pequeña caja que contiene\n"
                   "una navaja multi-herramienta")
       
