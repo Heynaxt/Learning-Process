@@ -27,13 +27,14 @@ if respuesta1 == "A":
                          "B - Rompes la punta de alguno de los espejos del cubículo, la utilizas para hacer palanca en los bordes de la puerta del armario\n"
                          "Respuesta: ")
       
-      if respuesta1 == "A":
-            input("Lo rompes, tu mano esta sangrando, en el armario hay una especie de interruptor y una pequeña ranura\n"
-                  "hay una navaja multi-herramienta dentro la coges derrepente escuchas pasos y unos ruidos extraños  corriendo\n "
-                  "hacia tu cubiculo, que haces?\n"
-                  "A - Apagas el interruptor y te escondes lo más rapido posible"
-                  "B - Te escondes y esperas a que entren al cubiculo para atacarles"
-                  "Respuesta: ")
+       print("\n")
+       if respuesta1 == "A":
+            input("¿Lo rompes, tu mano está sangrando, en el armario hay una especie de interruptor y una pequeña\n"
+                  "ranura hay una navaja multi-herramienta dentro la coges,de repente escuchas, pasos y unos ruidos\n"
+                   "extraños corriendo hacia tu cubículo, que haces?")
+                   "A - Apagas el interruptor y te escondes lo más rapido posible"
+                   "B - Te escondes y esperas a que entren al cubiculo para atacarles"
+                   "Respuesta: ")
      
       if respuesta == "B"
             print("Consigues romper esa parte pero tu mano esta sangrando mucho, escuchas pasos a lo lejos vienen hacia ti cubículo, que haces?n\
