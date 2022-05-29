@@ -32,9 +32,15 @@ if respuesta1 == "A":
             input("¿Lo rompes, tu mano está sangrando, en el armario hay una especie de interruptor y una pequeña\n"
                   "ranura hay una navaja multi-herramienta dentro la coges,de repente escuchas, pasos y unos ruidos\n"
                    "extraños corriendo hacia tu cubículo, que haces?")
-                   "A - Apagas el interruptor y te escondes lo más rapido posible"
-                   "B - Te escondes y esperas a que entren al cubiculo para atacarles"
+                   "A - Esperas que entren a tu cubículo y cuando entran sales corriendo \n"
+                   "B - Esperas que entren y atacas, consigues herir a uno pero los otros son muy ágiles te consiguen\n"
+                   "esquivar los ataques y te acorralan es tu fin\n"
+                   "C - C - Apagas la luz, te escondes al lado de la puerta de acceso a tu cubículo esperas que entre el\n"
+                   "último y lo agarras por la espalda y le pones la navaja en el cuello amenazas con matarle si las\n"
+                   "otras 2 criaturas intentan cualquier cosa o hacen cualquier ruido. Sales del cubículo poco a poco\n"
+                   "con la criatura humanoide
                    "Respuesta: ")
+                  
      
       if respuesta == "B"
             print("Consigues romper esa parte pero tu mano esta sangrando mucho, escuchas pasos a lo lejos vienen hacia ti cubículo, que haces?n\"
