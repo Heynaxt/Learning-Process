@@ -33,7 +33,7 @@ if respuesta1 == "A":
      
       if respuesta == "B"
             print("Consigues romper esa parte pero tu mano esta sangrando mucho, escuchas pasos a lo lejos vienen hacia ti cubículo, que haces?n\"
-                  "A - Te escondes lo más rapido posible\n"
+                  ""A - Te escondes lo más rapido posible\n"
                   "B - Te pones detras de la compuerta del cubiculo")
       
       print("\n")
