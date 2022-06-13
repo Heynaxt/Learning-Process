@@ -26,13 +26,13 @@ if respuesta1 == "A":
                          "A - Utilizas la fuerza bruta y rompes esa parte del espejo."
                          "B - Rompes la punta de alguno de los espejos del cubículo, la utilizas para hacer palanca en los bordes de la puerta del armario\n"
                          "Respuesta: ")
-      
+     
        print("\n")
       
                   
      
       if respuesta == "B"
-            print("Consigues romper esa parte pero tu mano esta sangrando mucho, escuchas pasos a lo lejos vienen hacia ti cubículo, que haces?n\"
+            print("Consigues romper esa parte pero tu mano esta sangrando mucho, escuchas pasos y ruidos extraños a lo lejos, vienen hacia tu cubículo, que haces?n\"
                   ""A - Te escondes lo más rapido posible\n"
                   "B - Te pones detras de la compuerta del cubiculo")
       
